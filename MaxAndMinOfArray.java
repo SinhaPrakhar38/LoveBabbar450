@@ -2,7 +2,7 @@ import java.util.*;
 
 public class MaxAndMinOfArray {
     public static void main(String[] args) {
-        int arr[] = {1,23,50,69,420,69,1};
+        int arr[] = {1,23,50,69,420,70,1};
         int i;
         int min = arr[0];
         int max = arr[arr.length-1];
